@@ -1,0 +1,107 @@
+.main-container{
+    width: 100%;
+    height: 100%;
+    }
+    .company-name-div{
+     
+        display: flex;
+        justify-content:center ;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .company-title{
+        margin-top: 30px;
+        width:230px;
+        height: 40px;
+        border-radius: 8px;
+    background: linear-gradient(268deg, #EE3938 -160.85%, #34629D 106.25%);
+    display: flex;
+    padding: 8px 30px 8px 31px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    
+    }
+    .company-title1{
+        margin-top: 30px;
+        width:230px;
+        height: 40px;
+        border-radius: 8px;
+    background: linear-gradient(268deg, #EE3938 -160.85%, #34629D 106.25%);
+    display: flex;
+    padding: 8px 30px 8px 31px;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    }
+    .company-pics{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .company-details{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+      flex-wrap:wrap;
+    }
+    .company{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .team-heading{
+        margin-top: 30px;
+    
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    }
+    .company-description{
+        margin-top: 30px;
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.quiries{
+    margin-left: 280px;
+    width:60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.separator
+{
+    width:60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #88cdf6;
+    border:ridge 7px;
+    padding-bottom: 20px;
+}
